@@ -1,0 +1,15 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+  datasource:
+    username: postgres
+    password: password
+    url: jdbc:postgresql://postgres:5432/chess
+
+security:
+  jwt:
+    secret: G+KbPeShVmYq3t6w9z$C&F)J@McQfTjW
+    duration: 12h
+

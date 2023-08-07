@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.chessserver.auth.AuthServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.246 s - in com.example.chessserver.auth.AuthServiceTest
